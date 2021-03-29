@@ -1,0 +1,10 @@
+.footarea {
+  color: whitesmoke;
+}
+.footerarea__top {
+  background-color: #36373f;
+  min-height: 60px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}

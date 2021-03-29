@@ -1,0 +1,23 @@
+.productcart {
+  display: flex;
+
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.productcart__image {
+  object-fit: contain;
+  width: 400px;
+  height: 600;
+}
+.productcart__title {
+  font-size: 28px;
+  font-weight: 600;
+}
+.productcart__price {
+  font-size: 20px;
+}
+.productcart__info > button {
+  border: 1px solid;
+  margin-top: 10px;
+  border-color: #a88734 #9c7e31 #847a29;
+}
